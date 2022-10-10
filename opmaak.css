@@ -9,7 +9,7 @@ body {
   
   p {
     font-family: courier;
-    font-size: 35px;
+    font-size: small;
   }
   ul
   a:link, a:visited {
