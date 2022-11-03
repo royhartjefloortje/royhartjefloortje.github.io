@@ -23,36 +23,7 @@ body {
     display: inline-block;
   }
   /*Hiermee geef ik de lay-out van mijn menu aan, knopkleur, tekstkleur, grootte, tekstplek*/
-  a:hover, a:active {
-    background-color:rgb(2, 1, 1);
-  }
-
-  ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: rgb(0, 0, 7);
-  }
   
-  li {
-    float: left;
-  }
-  
-  li a {
-    display: block;
-    color: black;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-  }
-  li a:hover:not(.active) {
-    background-color: rgb(249, 252, 252);
-  }
-  
-  .active {
-    background-color: #04fafa;
-  }
   
   
   
