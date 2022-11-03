@@ -49,7 +49,7 @@ body {
     text-decoration: none;
   }
   li a:hover:not(.active) {
-    background-color: rgb(5, 111, 249);
+    background-color: lightskyblue;
   }
   
   .active {
