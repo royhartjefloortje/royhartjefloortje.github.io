@@ -27,6 +27,7 @@ body {
   a:hover, a:active {
     background-color:rgb(2, 1, 1);
   }
+  /*Hiermee geef ik de achtergrondkleur van mijn menu aan*/
 
   ul {
     list-style-type: none;
