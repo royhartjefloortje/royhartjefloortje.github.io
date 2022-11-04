@@ -42,11 +42,8 @@ body {
   /*Hiermee geef ik aan dat mijn menuknoppen links aan elkaar staan*/
 
   .footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
     background-color: rgb(5, 111, 249);
+    padding: 3px;
     color: white;
     text-align: center;
  }
@@ -60,7 +57,7 @@ body {
     padding: 14px 16px;
     text-decoration: none;
   }
-  
+
   li a:hover:not(.active) {
     background-color: lightskyblue;
   }
