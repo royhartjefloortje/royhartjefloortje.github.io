@@ -43,7 +43,7 @@ body {
   /*Hiermee geef ik aan dat mijn menuknoppen links aan elkaar staan*/
 
   .footer {
-    background-color: lightskyblue;
+    background-color:rgb(5, 111, 249);
     padding: 3px;
     color: white;
     text-align: center;
@@ -53,11 +53,12 @@ body {
   
   li a {
     display: block;
-    color: black;
+    color: rgb(5, 111, 249);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
   }
+  /*Hiermee geef ik de lay-out van mijn link naar een video aan*/
 
   li a:hover:not(.active) {
     background-color: lightskyblue;
