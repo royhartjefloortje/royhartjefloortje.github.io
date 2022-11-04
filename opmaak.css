@@ -39,6 +39,16 @@ body {
   li {
     float: left;
   }
+
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(5, 111, 249);
+    color: white;
+    text-align: center;
+ }
   
   
   li a {
