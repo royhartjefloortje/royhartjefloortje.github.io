@@ -39,6 +39,7 @@ body {
   li {
     float: left;
   }
+  /*Hiermee geef ik aan dat mijn menuknoppen links aan elkaar staan*/
 
   .footer {
     position: fixed;
@@ -49,6 +50,7 @@ body {
     color: white;
     text-align: center;
  }
+ /*Hiermee geef ik mijn footer aan*/
   
   
   li a {
@@ -58,9 +60,11 @@ body {
     padding: 14px 16px;
     text-decoration: none;
   }
+  
   li a:hover:not(.active) {
     background-color: lightskyblue;
   }
+  /*Hiermee geef ik mijn knoppenkleur aan als je over de knop beweegt*/
   
   
   
