@@ -42,7 +42,7 @@ body {
   /*Hiermee geef ik aan dat mijn menuknoppen links aan elkaar staan*/
 
   .footer {
-    background-color: rgb(5, 111, 249);
+    background-color: lightskyblue;
     padding: 3px;
     color: white;
     text-align: center;
