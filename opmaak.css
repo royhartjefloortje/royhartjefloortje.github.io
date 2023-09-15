@@ -21,7 +21,7 @@ body {
     width: 215px;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
+    display:block;
   }
   /*Hiermee geef ik de lay-out van mijn menu aan, knopkleur, tekstkleur, grootte, tekstplek*/
   a:hover, a:active {
