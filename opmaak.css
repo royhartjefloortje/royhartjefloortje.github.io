@@ -118,6 +118,7 @@ body {
 }
 
 .dropdown:hover .dropdown-content {
+  position: relative;
   display: block;
 }
 </style>
