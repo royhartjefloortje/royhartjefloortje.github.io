@@ -83,7 +83,7 @@ body {
 .dropdown .dropbtn {
   font-size: 16px;  
   border: none;
-  outline: none;
+  outline: blue;
   color:lightskyblue;
   padding: 14px 16px;
   background-color: inherit;
