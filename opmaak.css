@@ -89,6 +89,7 @@ body {
   background-color: inherit;
   font-family: inherit;
   margin: 0;
+  width: 150px;
 }
 
 .navbar a:hover, .dropdown:hover .dropbtn {
