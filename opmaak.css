@@ -63,7 +63,8 @@ body {
 
 .navbar {
   overflow: hidden;
-  background-color: widht 150px;
+  background-color: black
+  width: 150px;
 }
 
 .navbar a {
