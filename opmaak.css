@@ -100,7 +100,9 @@ body
 .show {
   display: block;
 }
-
+{
+  background-image: url ("Afbeelding.jpg");
+}
 
   
   
